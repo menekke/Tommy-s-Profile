@@ -2,9 +2,7 @@
   
   ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=14F195&height=120&section=header&text=Tommy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
 
-  # <span style="color: #14F195; font-size: 48px;">Junior Developer</span>
-  <svg width="20" height="48" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
-  </svg>
+  # <span style="color: #14F195; font-size: 48px;">Junior Developer</span><span style="color: #14F195; font-size: 48px;">|</span>
 
 </div>
 
@@ -16,6 +14,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+
 </div>
 
 <br/>
@@ -48,6 +49,19 @@ I'm a **Junior Developer** from the **Netherlands**. Currently working on **Disc
 ---
 
 ## GitHub Stats
+
+<div align="center">
+
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=menekke&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=14F195&icon_color=14F195&text_color=ffffff"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menekke&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=14F195&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.demolab.com/?user=menekke&theme=dark&hide_border=true&background=0D1117&ring=14F195&fire=14F195&currStreakLabel=14F195&sideLabels=14F195&sideNums=14F195&dates=14F195" alt="GitHub Streak" width="100%"/>
+
+</div>
 
 <div align="center">
 
